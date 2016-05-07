@@ -1,0 +1,12 @@
+D:\S2\项目文档\超市管理系统\BLL\bin\Debug\BLL.dll
+D:\S2\项目文档\超市管理系统\BLL\bin\Debug\BLL.pdb
+D:\S2\项目文档\超市管理系统\BLL\bin\Debug\DAL.dll
+D:\S2\项目文档\超市管理系统\BLL\bin\Debug\Models.dll
+D:\S2\项目文档\超市管理系统\BLL\bin\Debug\Models.pdb
+D:\S2\项目文档\超市管理系统\BLL\bin\Debug\DAL.pdb
+D:\S2\项目文档\超市管理系统\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\S2\项目文档\超市管理系统\BLL\obj\Debug\BLL.dll
+D:\S2\项目文档\超市管理系统\BLL\obj\Debug\BLL.pdb
+D:\S2\项目文档\超市管理系统\BLL\bin\Debug\Interop.Excel.dll
+D:\S2\项目文档\超市管理系统\BLL\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\S2\项目文档\超市管理系统\BLL\bin\Debug\Interop.VBIDE.dll

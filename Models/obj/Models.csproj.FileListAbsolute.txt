@@ -1,0 +1,5 @@
+D:\S2\项目文档\超市管理系统\Models\bin\Debug\Models.dll
+D:\S2\项目文档\超市管理系统\Models\bin\Debug\Models.pdb
+D:\S2\项目文档\超市管理系统\Models\obj\Debug\ResolveAssemblyReference.cache
+D:\S2\项目文档\超市管理系统\Models\obj\Debug\Models.dll
+D:\S2\项目文档\超市管理系统\Models\obj\Debug\Models.pdb

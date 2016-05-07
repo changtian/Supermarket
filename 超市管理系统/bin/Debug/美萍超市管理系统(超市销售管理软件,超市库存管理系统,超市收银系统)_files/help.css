@@ -1,0 +1,36 @@
+TD {
+	FONT-FAMILY: "ËÎÌו", Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 9pt; FONT-WEIGHT: normal
+}
+P {
+	FONT-FAMILY: "ËÎÌו", Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 9pt; FONT-WEIGHT: normal
+}
+.bigred1 {
+	COLOR: #a80813; FONT-SIZE: 14px; FONT-WEIGHT: 800
+}
+.border {
+	BORDER-BOTTOM: #bbbbbb 1px dotted; PADDING-BOTTOM: 5px; BORDER-TOP: #bbbbbb 1px dotted; PADDING-TOP: 5px
+}
+.tooltips {
+	Z-INDEX: 2; POSITION: relative
+}
+.new A:link {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.new A:unknown {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.new A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.new A:active {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.tooltips:hover {
+	Z-INDEX: 3; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.tooltips SPAN {
+	DISPLAY: none
+}
+.tooltips:hover SPAN {
+	BORDER-BOTTOM: #d0d0d0 1px solid; POSITION: absolute; FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=white,endColorStr=white); BORDER-LEFT: #d0d0d0 1px solid; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #ccffff; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; DISPLAY: block; COLOR: black; BORDER-TOP: #d0d0d0 1px solid; TOP: 21px; BORDER-RIGHT: #d0d0d0 1px solid; PADDING-TOP: 3px; LEFT: 50px
+}

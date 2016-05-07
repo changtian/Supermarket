@@ -1,0 +1,7 @@
+D:\S2\项目文档\超市管理系统\DAL\bin\Debug\DAL.dll
+D:\S2\项目文档\超市管理系统\DAL\bin\Debug\DAL.pdb
+D:\S2\项目文档\超市管理系统\DAL\bin\Debug\Models.dll
+D:\S2\项目文档\超市管理系统\DAL\bin\Debug\Models.pdb
+D:\S2\项目文档\超市管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\S2\项目文档\超市管理系统\DAL\obj\Debug\DAL.dll
+D:\S2\项目文档\超市管理系统\DAL\obj\Debug\DAL.pdb
